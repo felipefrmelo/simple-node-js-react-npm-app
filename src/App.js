@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to Jenkins ahhsahsha</h1>
         </header>
         <p className="App-intro">
-          Aleluiaaaa
+          Aleluiaaaaaa
         </p>
       </div>
     );
